@@ -3,7 +3,6 @@
 //Vicii Air Systems youtube channel https://www.youtube.com/channel/UCOSavZxZ2kfVIxUxBTmdQTg
 //Copyleft licenced
 
-#include "Arduino.h"
 #include "d_Kalman.h"
 
 
